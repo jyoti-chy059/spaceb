@@ -1,1 +1,1 @@
-This repo will have all th e front end functionality for the spaceb blog.
+This repo will have all the front end code for the spaceb blog.
