@@ -33,6 +33,12 @@ module.exports = {
 						loader: 'file-loader'
 					}
 				]
+			},
+			{
+				test: /\.(woff|woff2|ttf)$/,
+				use: {
+					loader: 'url-loader'
+				}
 			}
 		]
 	},
